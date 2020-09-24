@@ -14,7 +14,6 @@
 - Guerrero Marín, Ángel
 - Librero Cansino, Juan José
 - Manzano Pineda, Cristian
-- Martín Romero, Javier
 - Moreno Vázquez, Juan María
 - Muñoz Cordero, Salvador
 - Muñoz Iglesias, Carlos
