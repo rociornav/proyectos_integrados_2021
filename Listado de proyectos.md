@@ -5,7 +5,7 @@
 - Carande Cabeza, Francisco Javier
 - Cordero Gordillo, Jorge
 - Corona Carrillo, Marco Antonio
-- Del Real Navarro, Rocío
+- [Del Real Navarro, Rocío] (https://github.com/rociornav/proyecto_final_2021)
 - Escacena Macías, Pedro
 - García Montes, Antonio
 - Gómez Gómez, César
